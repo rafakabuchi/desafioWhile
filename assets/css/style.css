@@ -1,0 +1,23 @@
+body {
+    background-color: #e3c5e0;
+}
+
+h1 {
+    color: #473b46;
+    text-align: center;
+    padding: 10px;
+    background-color: white;
+}
+
+h2 {
+    color: #473b46;
+}
+
+p {
+    padding: 50px;
+    color: #380035;
+    font-size: 20px;
+    text-align: justify;
+    background-color: white;
+    border-radius: 20px;
+}
